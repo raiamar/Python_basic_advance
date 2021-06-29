@@ -11,3 +11,8 @@ email_list = ["abc@gmail.com", "abc@yahoo.com", "abc@hotmail.com"]
 a = list(map(lambda g:g.split('@')[1], email_list))
 print(a)
 '''
+
+
+
+a = 4
+print(a)
